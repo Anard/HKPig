@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: HK Pig Kart for SuperTuxKart
+Upstream-Contact: Anard <anard@free.fr>
+Source: https://supertuxkart.net
+License: CC-BY-SA 3.0
+
+Files: *
+Copyright: Copyright 2020 Anard <anard@free.fr>
+License: CC-BY-SA 3.0
+Comment: Kart based on Lotus Seven
