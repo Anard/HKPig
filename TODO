@@ -1,4 +1,5 @@
 STK configured headlights do not move as car body
 Try to export png files in fewer quality (gimp exports seems better)
 Maybe pig should be a little fatter, also arms & legs should be more eccentric
-Left exhaust tube seems transparent, as rear lights supports
+Left exhaust tube seems transparent, as rear lights supports & immat
+Make fan speed weighted (now when set to speed weighted object, it's distorted)
