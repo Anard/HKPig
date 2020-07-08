@@ -1,3 +1,3 @@
 Try to export png files in fewer quality (gimp exports seems better)
 Also make all png files 512x512 or 1024x1024, not 500x500
-Make fan speed weighted (now when set to speed weighted object, it's distorted)
+Fan is a little distorted when turning. It doesn't happen if it turns as normal object (not speed weighted).
